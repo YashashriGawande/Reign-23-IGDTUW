@@ -1,14 +1,13 @@
 # Reign-23-IGDTUW
 
+**Team Hackstone**
+
 **Air Quality Prediction**
 
 **GOAL**
 
 The goal of this project is to predict Air Quality Index (AQI ) form features as particulate matter (PM2.5 and PM10), Nitrogen Oxide (NO), Nitric Dioxide (NO2), Carbon Monoxide (CO), Sulphur Dioxide (SO2), Ozone (O3) etc.
 
-**DATASET**
-
-Link to the dataset (https://www.kaggle.com/rohanrao/air-quality-data-in-india).
 
 **WHAT I HAD DONE**
 - Step 1: Data Exploration
